@@ -345,7 +345,7 @@ export function Project() {
         </div>
 
         <div className="capturesline left" data-aos="fade-left">
-          <h4>PUB AI</h4>
+          <h4>Mini App robot</h4>
           <p><strong>Explication du projet :</strong></p>
           <ul>
             <li>
@@ -364,7 +364,7 @@ export function Project() {
         </div>
 
         <div className="capturesline right" data-aos="fade-right">
-          <h4>Doomify AI</h4>
+          <h4>Pub AI</h4>
           <p><strong>Explication du projet :</strong></p>
           <ul>
             <li>
@@ -384,7 +384,7 @@ export function Project() {
         </div>
 
         <div className="capturesline left" data-aos="fade-left">
-          <h4>Mimi App Robots</h4>
+          <h4>Free JS</h4>
           <p><strong>Explication du projet :</strong></p>
           <ul>
             <li>
@@ -403,7 +403,7 @@ export function Project() {
         </div>
 
         <div className="capturesline right" data-aos="fade-right">
-          <h4>Free JS</h4>
+          <h4>Doomify</h4>
           <p><strong>Quelques réalisations en Free JS:</strong></p>
           <ul>
             <li>
